@@ -124,3 +124,22 @@
     background: #fff;
     z-index: 100;
 }
+.rotate-btn{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 60px;
+    right: 60px;
+    background: #aba72c;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rotate-btn i {
+    font-size: 40px;
+    color: #fff;
+}
